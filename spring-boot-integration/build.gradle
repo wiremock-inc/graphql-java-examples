@@ -5,3 +5,7 @@ sourceCompatibility = 1.8
 dependencies {
     compile('org.springframework.boot:spring-boot-starter-web')
 }
+
+springBoot {
+    mainClassName = 'com.graphql.java.examples.springboot.Application'
+}
