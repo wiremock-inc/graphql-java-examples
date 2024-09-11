@@ -1,0 +1,3 @@
+bootJar {
+    mainClassName = 'com.graphqljava.defer.DeferApplication'
+}
